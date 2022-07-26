@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/PostOP/static/css/main.82efe372.css",
-    "main.js": "/PostOP/static/js/main.3cc4e976.js",
-    "static/media/possibility.png": "/PostOP/static/media/possibility.525f13b61a2157d44de0.png",
+    "main.css": "/PostOP/static/css/main.081d52d3.css",
+    "main.js": "/PostOP/static/js/main.14695464.js",
     "static/media/gta5-1.png": "/PostOP/static/media/gta5-1.4dab70ff5bce988e6527.png",
     "static/media/blog01.png": "/PostOP/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/possibility.png": "/PostOP/static/media/possibility.99a6268e979e0a609e56.png",
     "static/media/blog03.png": "/PostOP/static/media/blog03.d922323861096f25274f.png",
     "static/media/blog04.png": "/PostOP/static/media/blog04.742c1357e7b6c11078e6.png",
     "static/media/blog05.png": "/PostOP/static/media/blog05.bfaa1c1e3851158e0e1f.png",
@@ -12,11 +12,11 @@
     "static/media/logoOP.png": "/PostOP/static/media/logoOP.633caa4a598a931a3a57.png",
     "static/media/people.png": "/PostOP/static/media/people.5cd2d6fbcd48bd63f106.png",
     "index.html": "/PostOP/index.html",
-    "main.82efe372.css.map": "/PostOP/static/css/main.82efe372.css.map",
-    "main.3cc4e976.js.map": "/PostOP/static/js/main.3cc4e976.js.map"
+    "main.081d52d3.css.map": "/PostOP/static/css/main.081d52d3.css.map",
+    "main.14695464.js.map": "/PostOP/static/js/main.14695464.js.map"
   },
   "entrypoints": [
-    "static/css/main.82efe372.css",
-    "static/js/main.3cc4e976.js"
+    "static/css/main.081d52d3.css",
+    "static/js/main.14695464.js"
   ]
 }
