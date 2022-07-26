@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PostOP/static/css/main.e5ad76b7.css",
+    "main.js": "/PostOP/static/js/main.369052ee.js",
+    "static/media/gta5-1.png": "/PostOP/static/media/gta5-1.4dab70ff5bce988e6527.png",
+    "static/media/logoOP.png": "/PostOP/static/media/logoOP.633caa4a598a931a3a57.png",
+    "static/media/people.png": "/PostOP/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/PostOP/index.html",
+    "main.e5ad76b7.css.map": "/PostOP/static/css/main.e5ad76b7.css.map",
+    "main.369052ee.js.map": "/PostOP/static/js/main.369052ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ad76b7.css",
+    "static/js/main.369052ee.js"
+  ]
+}
