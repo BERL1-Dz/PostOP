@@ -4,9 +4,13 @@
   --font-family: "Manrope", sans-serif;
 
   --gradient-text: linear-gradient(89.97deg, #a65825 1.84%, #eccb3c 102.67%);
-  --gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+  --gradient-bar: linear-gradient(89.97deg, #a65825 1.84%, #eccb3c 102.67%);
 
-  --color-bg: #040c18;
+  --color-bg: radial-gradient(
+    circle at 3% 25%,
+    rgba(0, 40, 83, 1) 0%,
+    rgba(4, 12, 24, 1) 100%
+  );
   --color-footer: #031b34;
   --color-blog: #042c54;
   --color-text: #81afdd;

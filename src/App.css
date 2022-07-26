@@ -13,7 +13,7 @@ a {
   text-decoration: none;
 }
 
-.gradient__bg {
+.gradient__bgs {
   /* ff 3.6+ */
   background: -moz-radial-gradient(
     circle at 3% 25%,

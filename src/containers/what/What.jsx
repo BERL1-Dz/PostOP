@@ -6,7 +6,7 @@ const What = () => {
     <div className="gpt3__what section__margin" id="what">
       <div className="gpt3__what-feature">
         <Feature
-          title={"What is GPT-3"}
+          title={"Nos Services"}
           text={
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut faucibus est. Maecenas eget elit odio. Phasellus sit amet purus eget nunc sagittis maximus sit amet nec leo Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut faucibus est. Maecenas eget elit odio. Phasellus sit amet purus eget nunc sagittis maximus sit amet nec leo"
           }
