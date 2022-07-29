@@ -9,7 +9,7 @@ const Features = () => {
           L'avenir est maintenant et vous avez juste besoin de le réaliser.
           Entrez dans l'avenir aujourd'hui et faites-le se produire..
         </h1>
-        <p>Request Early Access to Get Started</p>
+        <p>Demandez un accès anticipé pour commencer</p>
       </div>
       <div className="gpt3__features-container-text">
         <Feature
